@@ -1,2 +1,2 @@
-# Homework02_AdvancedCSS
+# AdvancedCSS
 Using new CSS skill to design and build a Portfolio website.
